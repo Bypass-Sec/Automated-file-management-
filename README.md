@@ -1,5 +1,5 @@
 
-# 📂 File Management Automation Script
+# 📂 File Management Automation Script (incomplete)
 
 A Python script to **automate file organization** by sorting files into categorized folders based on their extensions. This script helps keep your directories clean and organized.
 
