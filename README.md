@@ -29,7 +29,7 @@ A Python script to **automate file organization** by sorting files into categori
 
 ---
 
-## 📂 How It Works
+##  📂 How It Works
 
 1. **Define the source directory**  
    - By default, the script organizes files from the `Downloads` folder. You can modify the `source_directory` variable to any directory of your choice.
