@@ -52,7 +52,7 @@ A Python script to **automate file organization** by sorting files into categori
 
 - Modify the `file_categories` dictionary in `file_management.py` to add or remove file types as needed.
 - Change `source_directory` to specify a different directory for organization.
-
+- Inspiration : https://www.youtube.com/watch?v=gs0FNQR0njI
 ---
 
 ## 🤝 Contributing
