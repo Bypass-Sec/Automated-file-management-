@@ -1,4 +1,4 @@
-import os, shutil
+import os, shutil 
 
 path = r"C:\Users\omers\Downloimport os" #replace with your path destination
 import shutil
